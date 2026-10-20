@@ -14,12 +14,12 @@ application code, build or test suite.
 - `docs/adr/` — Architecture Decision Records.
   - `README.md` — conventions and the ADR index.
   - `template.md` — starting point for new ADRs.
-  - `NNNN-short-title.md` — one decision per file.
+  - `ADR-NNNN-short-title.md` — one decision per file.
 - `sec/open-api-specs/` — OpenAPI Specifications, one per API, named `<api-name>.openapi.yaml`.
 
 ## Working with ADRs
 
-- Copy `docs/adr/template.md` to the next free number: `NNNN-short-title-in-kebab-case.md`.
+- Copy `docs/adr/template.md` to the next free number: `ADR-NNNN-short-title-in-kebab-case.md`.
   Numbers are sequential and never reused.
 - Fill in Status, Date (ISO `YYYY-MM-DD`), Context, Decision, Consequences and Alternatives.
 - Add every new ADR to the index table in `docs/adr/README.md`.

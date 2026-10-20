@@ -14,5 +14,5 @@ Description, ideas and architecture decisions for the **Tags** project.
 ## Architecture Decision Records
 
 Architecture decisions are recorded as ADRs in [`docs/adr/`](docs/adr/), following the
-format described in [ADR-0001](docs/adr/0001-record-architecture-decisions.md).
+format described in [ADR-0001](docs/adr/ADR-0001-record-architecture-decisions.md).
 New records start from the [template](docs/adr/template.md).
